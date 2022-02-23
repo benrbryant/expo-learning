@@ -1,4 +1,4 @@
-const tintColorLight = "red";
+const tintColorLight = "purple";
 const tintColorDark = "#eee";
 const darkTheme = {
   "dark-primary": "#1d2d50",
